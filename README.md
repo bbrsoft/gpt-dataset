@@ -12,7 +12,7 @@ This Streamlit application allows users to generate, edit, and save conversation
 ## Installation
 
 1. Clone this repository:
-`git clone https://github.com/ShadoWxShinigamI/GPT-Dataset-Helper.git`
+`git clone https://github.com/bbrsoft/GgptPT-dataset.git`
 2. Install Dependecies:
 `pip install streamlit anthropic`
 3. Create a `.streamlit/secrets.toml` file with your Anthropic API key:
